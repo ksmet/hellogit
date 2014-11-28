@@ -57,5 +57,10 @@
         <github>kbaranski</github>
         <group>KrZZIs3011Si</group>
     </student>
-
-</students>
+<student>
+	<firstname>Kamil</firstname>
+	<lastname>Smet</lastname>
+	<email>kamil.smet@gmail.com</email>
+	<github>ksmet</github>
+	<group>KrZZIs3011Io</group>
+</student>
